@@ -482,3 +482,8 @@ $RECYCLE.BIN/
 
 # Vim temporary swap files
 *.swp
+
+# ignore compiled code and logs
+bin/
+obj/
+logs/

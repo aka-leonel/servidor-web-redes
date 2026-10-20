@@ -1,0 +1,24 @@
+Proyecto final:
+
+Crear un servidor web simple.
+
+Requisitos:
+
+1.       Debe poder atender un número indefinido de solicitudes en forma concurrente.
+
+2.       Por defecto, deberá servir el archivo index.html, si la URL no especifica el archivo.
+
+3.       La carpeta desde donde se servirán los archivos debe ser configurable desde un archivo de configuración externo.
+
+4.       El puerto de escucha debe ser configurable desde un archivo de configuración externo.
+
+5.       En caso de que el usuario haya solicitado un archivo inexistente, deberá devolver un código de error 404 y un documento personalizado indicando el error.
+
+6.       Debe aceptar solicitudes de tipo GET y POST. En el caso de solicitudes POST, sólo deben loguearse los datos recibidos.
+
+7.       Debe manejar parámetros de consulta desde la URL. En este caso, los parámetros solo deberán loguearse.
+
+8.       Debe utilizar compresión de archivos para responder a las solicitudes.
+
+9.       Los datos de todas las solicitudes deben loguearse en un archivo por día, incluyendo la IP de origen.
+
