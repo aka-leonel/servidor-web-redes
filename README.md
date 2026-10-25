@@ -1,6 +1,6 @@
 # Servidor Web Concurrente en C# (.NET 9.0)
 
-Proyecto final desarrollado para la materia **Programación sobre Redes** (IFTS N° 18). Consiste en un servidor web HTTP/TCP desarrollado desde cero en C#.
+Proyecto final desarrollado para la materia **Programación sobre Redes** (IFTS N° 11). Consiste en un servidor web HTTP/TCP desarrollado desde cero en C#.
 
 ## 🚀 Características y Requisitos Implementados
 
